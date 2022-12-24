@@ -1,0 +1,8 @@
+======CATATAN BARANG KELUAR LAPTOP======
+			Nama Karyawan : nur
+			Id Karyawan : 123
+==========================================
+Tipe Barang   : vivobookm3a2
+Jumlah Barang : 1
+TOTAL HARGA BARANG : 95000
+==========================================

@@ -1,0 +1,8 @@
+======CATATAN BARANG KELUAR KOMPUTER======
+			Nama Karyawan : nur
+			Id Karyawan : 123
+==========================================
+Tipe Barang   : fujitsu30
+Jumlah Barang : 1
+TOTAL HARGA BARANG : 25000
+==========================================
